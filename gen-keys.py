@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Use this script to generate your own values for encryption key
+# and token secret. Then modify the script that starts Visual DB.
+
 import secrets
 import base64
 
